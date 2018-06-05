@@ -6,7 +6,7 @@ describe "An admin" do
       genre1 = Genre.create(name: 'genre1')
       genre2 = Genre.create(name: 'genre2')
 
-      visit admin_genres_page
+      visit admin_genres_path
 
       expect(page).to have_content(genre1.name)
       expect(page).to have_content(genre2.name)
