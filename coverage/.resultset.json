@@ -589,11 +589,11 @@
         1,
         null,
         1,
-        48,
+        49,
         null,
         null,
         1,
-        35,
+        36,
         null,
         null,
         1,
@@ -728,22 +728,6 @@
         1,
         null
       ],
-      "/Users/eliotswank/turing/2module/final/movie_mania_1803/app/controllers/admin/genres_controller.rb": [
-        1,
-        null,
-        null
-      ],
-      "/Users/eliotswank/turing/2module/final/movie_mania_1803/app/controllers/admin/base_controller.rb": [
-        1,
-        1,
-        null,
-        1,
-        null,
-        1,
-        2,
-        null,
-        null
-      ],
       "/Users/eliotswank/turing/2module/final/movie_mania_1803/app/controllers/application_controller.rb": [
         1,
         1,
@@ -752,7 +736,7 @@
         1,
         null,
         1,
-        45,
+        46,
         null,
         null,
         1,
@@ -763,7 +747,27 @@
         null,
         null,
         1,
-        2,
+        3,
+        null,
+        null
+      ],
+      "/Users/eliotswank/turing/2module/final/movie_mania_1803/app/controllers/admin/genres_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/eliotswank/turing/2module/final/movie_mania_1803/app/controllers/admin/base_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        3,
         null,
         null
       ],
@@ -920,6 +924,6 @@
         null
       ]
     },
-    "timestamp": 1528212311
+    "timestamp": 1528212839
   }
 }
