@@ -754,8 +754,9 @@
       "/Users/eliotswank/turing/2module/final/movie_mania_1803/app/controllers/admin/genres_controller.rb": [
         1,
         1,
-        1,
         null,
+        1,
+        1,
         null,
         null,
         null
@@ -924,6 +925,6 @@
         null
       ]
     },
-    "timestamp": 1528212839
+    "timestamp": 1528213139
   }
 }
