@@ -3,3 +3,11 @@
 <% @genres.each do |genre| %>
   <%= genre.name %>
 <%end%>
+
+    <h2>Create New Genre</h2>
+    <%= form_for :genre do |f| %>
+      <section>
+        <h2>Name:</h2>
+        <h3><%= f.text_field :name%></h3>
+      </section>
+      <%end%>
