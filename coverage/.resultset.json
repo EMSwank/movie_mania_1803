@@ -518,6 +518,30 @@
         null,
         null
       ],
+      "/Users/eliotswank/turing/2module/final/movie_mania_1803/spec/features/visitor_visits_a_genre_show_page_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "/Users/eliotswank/turing/2module/final/movie_mania_1803/spec/features/visitor_visits_genre_index_page_spec.rb": [
         1,
         null,
@@ -990,6 +1014,6 @@
         null
       ]
     },
-    "timestamp": 1528216144
+    "timestamp": 1528216573
   }
 }
