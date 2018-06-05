@@ -47,14 +47,3 @@ describe "An admin" do
     
   end
 end
-
-=begin
-As an admin user, 
-  When I visit the genre index page,
-  And I fill out the form with a genre's name and click 'Create Genre', 
-  I return to the genre index page,
-  I see all genre names from the database including the new genre I have just created.
-
-(for testing purposes, I should see at least 2 genres listed 
-plus the new one I just created) 
-=end
