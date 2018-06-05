@@ -626,11 +626,39 @@
         1,
         null
       ],
+      "/Users/eliotswank/turing/2module/final/movie_mania_1803/spec/models/genre_movie_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        null
+      ],
+      "/Users/eliotswank/turing/2module/final/movie_mania_1803/app/models/genre_movie.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
+      "/Users/eliotswank/turing/2module/final/movie_mania_1803/spec/models/genre_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        2,
+        null
+      ],
+      "/Users/eliotswank/turing/2module/final/movie_mania_1803/app/models/genre.rb": [
+        1,
+        null
+      ],
       "/Users/eliotswank/turing/2module/final/movie_mania_1803/spec/models/movie_spec.rb": [
         1,
         null,
         1,
         1,
+        2,
+        2,
         2,
         2,
         null,
@@ -882,6 +910,6 @@
         null
       ]
     },
-    "timestamp": 1528211544
+    "timestamp": 1528211938
   }
 }
