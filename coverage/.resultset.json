@@ -650,6 +650,8 @@
       ],
       "/Users/eliotswank/turing/2module/final/movie_mania_1803/app/models/genre.rb": [
         1,
+        1,
+        1,
         null
       ],
       "/Users/eliotswank/turing/2module/final/movie_mania_1803/spec/models/movie_spec.rb": [
@@ -674,6 +676,8 @@
         null
       ],
       "/Users/eliotswank/turing/2module/final/movie_mania_1803/app/models/movie.rb": [
+        1,
+        1,
         1,
         1,
         1,
@@ -910,6 +914,6 @@
         null
       ]
     },
-    "timestamp": 1528211938
+    "timestamp": 1528212078
   }
 }
