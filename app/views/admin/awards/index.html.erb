@@ -1,5 +1,9 @@
 <h1>All Awards</h1>
 
+<% @awards.each do |award|%>
+  <%=award.name%>
+  <%end%>
+
     <%= form_for :award do |f| %>
         <h2>Name:</h2>
         <h3><%= f.text_field :name%></h3>
