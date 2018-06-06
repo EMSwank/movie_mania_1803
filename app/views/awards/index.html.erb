@@ -1,5 +1,12 @@
 <h1>All Awards</h1>
 
 <% @awards.each do |award|%>
+    
   <%=link_to award.name, award_path(award)%>
+  <p>Awards for this Movie:</p>
+    <%award.awards.each do |award|%>
+    <%= award.name %>
+    <%binding.pry%>
+    <%= award.awards.year %>
+    <%end%>
   <%end%>
