@@ -28,13 +28,6 @@ describe "An admin" do
       expect(page).to have_content(award2.name) 
       expect(page).to have_content("new_award") 
     end
-
-    
   end
 end
 
-# As an admin user, 
-# When I visit the awards index page,
-#   When I fill out the form with the award's title, 
-#     And click 'Create Award', 
-#     I see a list of all awards including the one I have just created. 
