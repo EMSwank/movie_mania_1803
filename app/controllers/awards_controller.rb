@@ -1,7 +1,7 @@
 class AwardsController < ApplicationController
 
   def index
-    # binding.pry
+    binding.pry
     @awards = Award.all
   end
   

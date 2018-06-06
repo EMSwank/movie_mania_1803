@@ -6,7 +6,6 @@
   <p>Awards for this Movie:</p>
     <%award.awards.each do |award|%>
     <%= award.name %>
-    <%binding.pry%>
-    <%= award.awards.year %>
+    <%= award.award_movies.year %>
     <%end%>
   <%end%>
