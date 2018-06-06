@@ -543,6 +543,19 @@
         1,
         null
       ],
+      "/Users/eliotswank/turing/2module/movie_mania_1803/spec/models/award_movie_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null
+      ],
+      "/Users/eliotswank/turing/2module/movie_mania_1803/app/models/award_movie.rb": [
+        1,
+        1,
+        1,
+        null
+      ],
       "/Users/eliotswank/turing/2module/movie_mania_1803/spec/models/award_spec.rb": [
         1,
         null,
@@ -552,6 +565,7 @@
         null
       ],
       "/Users/eliotswank/turing/2module/movie_mania_1803/app/models/award.rb": [
+        1,
         1,
         1,
         null
@@ -653,6 +667,8 @@
         null
       ],
       "/Users/eliotswank/turing/2module/movie_mania_1803/app/models/movie.rb": [
+        1,
+        1,
         1,
         1,
         1,
@@ -889,6 +905,6 @@
         null
       ]
     },
-    "timestamp": 1528298176
+    "timestamp": 1528298391
   }
 }

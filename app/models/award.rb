@@ -1,3 +1,4 @@
 class Award < ApplicationRecord
-  belongs_to :movie
+  has_many :award_movies
+  has_many :awards, through: :award_movies
 end
